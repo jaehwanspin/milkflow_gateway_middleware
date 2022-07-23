@@ -1,0 +1,7 @@
+add_subdirectory(mf_node_manager)
+add_subdirectory(mf_monitor)
+add_subdirectory(mf_reporter)
+add_subdirectory(libmf_active_obj)
+add_subdirectory(libmf_periph)
+add_subdirectory(libmf_vampire)
+add_subdirectory(libmf_rq)
